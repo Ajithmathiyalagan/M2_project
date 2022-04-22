@@ -4,4 +4,4 @@ The control wire is used to communicate the angle. The angle is determined by th
 |pulse	|expected output	|passed or Not|
 |Motor turned to 90 degree|	neutral position |	passed|
 |Pulse is <1.5 ms|	Shaft turns closer to 0 degrees|	passed|
-|Pulse is >1.5 ms|	Shaft turns closer to 180 Degrees|	passed|
+|Pulse is >1.5 ms|	Shaft turns closer to 180 Degrees|	passed
