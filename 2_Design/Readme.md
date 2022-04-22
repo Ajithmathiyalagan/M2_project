@@ -1,0 +1,1 @@
+![alt text](https://github.com/Arunkumar120701/M2-EmbSys/tree/main/M2-EmbSys/Project/2_Architecture)
