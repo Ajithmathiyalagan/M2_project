@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-![alt text](https://github.com/Arunkumar120701/M2-EmbSys/tree/main/M2-EmbSys/Project/2_Architecture)
-=======
-
->>>>>>> b92395dc32afa544a9e0487b2d960f8460e65d19
+![alt text](https://github.com/Ajithmathiyalagan/M2_project/blob/main/2_Design/Diagram/157368165-31ea2e3e-0a2a-4f73-af3b-0f44efad3bcc.png)
+![alt text](https://github.com/Ajithmathiyalagan/M2_project/blob/main/2_Design/Diagram/157369040-ef3ed5c7-bf8f-4ab1-ae32-e4b672e333c4.png)
+![alt text](https://github.com/Ajithmathiyalagan/M2_project/blob/main/2_Design/Diagram/157389535-39e9a1b5-6234-4513-aafe-fdb6522d2564.jpg)
